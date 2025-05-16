@@ -1021,14 +1021,10 @@
       },
       "ForJohnny/1.0.0": {
         "dependencies": {
-          "Microsoft.NET.Test.Sdk": "16.9.4",
           "Newtonsoft.Json.Bson": "1.0.2"
         },
         "runtime": {
-          "ForJohnny.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ForJohnny.dll": {}
         }
       }
     }
